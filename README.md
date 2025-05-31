@@ -7,3 +7,8 @@ install uv
 
 then run
 ```uv sync```
+
+# link to our dataset:
+
+https://www.kaggle.com/datasets/k3vim229/dog-dataset/data
+https://www.kaggle.com/datasets/k3vim229/dog-data
